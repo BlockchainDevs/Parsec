@@ -7,7 +7,7 @@ Contains the Parsec specification and an implementation of Protocol using Kafka
 
 To run the ParsecSimulator that will generate Parsec Protocol messages on Kafka topics, run
       
-    $ sbt simulator/run
+    $ sbt run
     
 # Kafka Cluster
 
