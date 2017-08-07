@@ -5,6 +5,8 @@ Contains the Parsec specification and an implementation of Protocol using Kafka
 
 # Run
 
+Install **Scala**, **sbt**, **Docker-compose and Apache Kafka**.
+
 To run the ParsecSimulator that will generate Parsec Protocol messages on Kafka topics, run
       
     $ sbt simulator/run
