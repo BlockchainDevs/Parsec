@@ -18,3 +18,7 @@ You can see the **schemas** and **messages** in the playground.
 # Theory
 
   - Lightning Network: https://lightning.network/lightning-network-paper.pdf
+
+# Note
+
+This project has been moved to https://github.com/quanonblocks/Parsec
